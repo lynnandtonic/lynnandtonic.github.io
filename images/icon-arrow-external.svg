@@ -9,11 +9,11 @@
 <g id="Layer_2" display="none">
 </g>
 <g id="Layer_3">
-	<path fill="#F1F1F1" stroke="#4CABE0" stroke-miterlimit="10" d="M180.2,414.6"/>
-	<path fill="#F1F1F1" stroke="#4CABE0" stroke-miterlimit="10" d="M296.1,30.5"/>
-	<path fill="#F1F1F1" stroke="#4CABE0" stroke-miterlimit="10" d="M533.9,225.6"/>
-	<path fill="#F1F1F1" stroke="#4CABE0" stroke-miterlimit="10" d="M314.4,67.1"/>
-	<path fill="#F1F1F1" stroke="#4CABE0" stroke-miterlimit="10" d="M558.3,146.3"/>
-	<polygon fill="#F1F1F1" points="277.8,0 277.8,61 436.3,61 40,457.3 82.7,500 479,103.7 479,262.2 540,262.2 540,0 	"/>
+	<path fill="#F8F0DF" d="M180.2,414.6"/>
+	<path fill="#F8F0DF" d="M296.1,30.5"/>
+	<path fill="#F8F0DF" d="M533.9,225.6"/>
+	<path fill="#F8F0DF" d="M314.4,67.1"/>
+	<path fill="#F8F0DF" d="M558.3,146.3"/>
+	<polygon fill="#F8F0DF" points="277.8,0 277.8,61 436.3,61 40,457.3 82.7,500 479,103.7 479,262.2 540,262.2 540,0 	"/>
 </g>
 </svg>
